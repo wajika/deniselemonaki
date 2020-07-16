@@ -2,7 +2,7 @@
 
 ## Hello, I am Dionysia 
 - 👩‍💻 I am currently teaching myself Python and Linux.
-- 🖋 I am writing blog posts on what I am learning. Read them [here](https://dev.to/deniselemonaki)
+- 🖋 I am writing blog posts on DEV.to on what I am learning. Read them [here](https://dev.to/deniselemonaki)
 - 😃 Pronouns: she/her
 
 
