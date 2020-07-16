@@ -1,4 +1,4 @@
-![hi] (https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif)
+![hi](https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif)
 
 ## Hello, I am Dionysia 
 - 👩‍💻 I am currently teaching myself Python and Linux.
