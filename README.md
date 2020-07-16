@@ -1,4 +1,11 @@
-### Hi there 👋
+![goat saying hi](https://media.giphy.com/media/3PAL5bChWnak0WJ32x/giphy.gif)
+
+## Hello, I am Dionysia 
+- 👩‍💻 I am currently teaching myself Python and Linux.
+- 🖋 I am writing blog posts on what I am learning. Read them [here](https://dev.to/deniselemonaki)
+- 😃 Pronouns: she/her
+
+
 
 <!--
 **deniselemonaki/deniselemonaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
