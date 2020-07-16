@@ -1,4 +1,4 @@
-![goat saying hi](https://giphy.com/gifs/3PAL5bChWnak0WJ32x)
+![goat](https://media.giphy.com/media/3PAL5bChWnak0WJ32x/giphy.gif)
 
 ## Hello, I am Dionysia 
 - 👩‍💻 I am currently teaching myself Python and Linux.
